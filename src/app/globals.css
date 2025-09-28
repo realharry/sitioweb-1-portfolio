@@ -56,7 +56,7 @@ body {
 }
 
 .gradient-bg {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #f97316 0%, #ef4444 50%, #dc2626 100%);
 }
 
 .gradient-text {
